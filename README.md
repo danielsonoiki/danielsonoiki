@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development-related opportunity with companies and platforms that offer flexibility and opportunities to grow both personally and professionally.
 - 🌱 I’m currently learning software development and I don't mind having suggestions on the best path to fellow
 <!--- 💞️ I’m looking to collaborate on -->
-- 📫 You can reach me via mail on getdanielsonoiki@gmail.com
+- 📫 You can reach me via mail on danielsonoiki@gmail.com
 
 <!---
 danielsonoiki/danielsonoiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
